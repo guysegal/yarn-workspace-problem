@@ -1,0 +1,9 @@
+{
+  "name": "react-native-some-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
